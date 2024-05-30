@@ -1,0 +1,8 @@
+- related to loosely coupled architectures
+- breaking down of monolith applications into constituent parts
+- 'seperation of concerns'
+- smaller blast radius
+- service mesh
+- easier A/B testing
+- faster continuous integration
+- less risky change management process
